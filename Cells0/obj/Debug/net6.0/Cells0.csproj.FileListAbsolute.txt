@@ -1,0 +1,14 @@
+E:\Univer\MPO\Cells0\bin\Debug\net6.0\Cells0.exe
+E:\Univer\MPO\Cells0\bin\Debug\net6.0\Cells0.deps.json
+E:\Univer\MPO\Cells0\bin\Debug\net6.0\Cells0.runtimeconfig.json
+E:\Univer\MPO\Cells0\bin\Debug\net6.0\Cells0.dll
+E:\Univer\MPO\Cells0\bin\Debug\net6.0\Cells0.pdb
+E:\Univer\MPO\Cells0\obj\Debug\net6.0\Cells0.GeneratedMSBuildEditorConfig.editorconfig
+E:\Univer\MPO\Cells0\obj\Debug\net6.0\Cells0.AssemblyInfoInputs.cache
+E:\Univer\MPO\Cells0\obj\Debug\net6.0\Cells0.AssemblyInfo.cs
+E:\Univer\MPO\Cells0\obj\Debug\net6.0\Cells0.csproj.CoreCompileInputs.cache
+E:\Univer\MPO\Cells0\obj\Debug\net6.0\Cells0.dll
+E:\Univer\MPO\Cells0\obj\Debug\net6.0\refint\Cells0.dll
+E:\Univer\MPO\Cells0\obj\Debug\net6.0\Cells0.pdb
+E:\Univer\MPO\Cells0\obj\Debug\net6.0\Cells0.genruntimeconfig.cache
+E:\Univer\MPO\Cells0\obj\Debug\net6.0\ref\Cells0.dll

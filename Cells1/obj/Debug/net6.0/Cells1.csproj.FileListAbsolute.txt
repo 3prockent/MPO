@@ -1,0 +1,14 @@
+E:\Univer\MPO\Cells1\bin\Debug\net6.0\Cells1.exe
+E:\Univer\MPO\Cells1\bin\Debug\net6.0\Cells1.deps.json
+E:\Univer\MPO\Cells1\bin\Debug\net6.0\Cells1.runtimeconfig.json
+E:\Univer\MPO\Cells1\bin\Debug\net6.0\Cells1.dll
+E:\Univer\MPO\Cells1\bin\Debug\net6.0\Cells1.pdb
+E:\Univer\MPO\Cells1\obj\Debug\net6.0\Cells1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Univer\MPO\Cells1\obj\Debug\net6.0\Cells1.AssemblyInfoInputs.cache
+E:\Univer\MPO\Cells1\obj\Debug\net6.0\Cells1.AssemblyInfo.cs
+E:\Univer\MPO\Cells1\obj\Debug\net6.0\Cells1.csproj.CoreCompileInputs.cache
+E:\Univer\MPO\Cells1\obj\Debug\net6.0\Cells1.dll
+E:\Univer\MPO\Cells1\obj\Debug\net6.0\refint\Cells1.dll
+E:\Univer\MPO\Cells1\obj\Debug\net6.0\Cells1.pdb
+E:\Univer\MPO\Cells1\obj\Debug\net6.0\Cells1.genruntimeconfig.cache
+E:\Univer\MPO\Cells1\obj\Debug\net6.0\ref\Cells1.dll
