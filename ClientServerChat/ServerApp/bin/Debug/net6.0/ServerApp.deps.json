@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ServerApp/1.0.0": {
+        "dependencies": {
+          "ClientServerChatLib": "1.0.0"
+        },
+        "runtime": {
+          "ServerApp.dll": {}
+        }
+      },
+      "ClientServerChatLib/1.0.0": {
+        "runtime": {
+          "ClientServerChatLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ServerApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClientServerChatLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

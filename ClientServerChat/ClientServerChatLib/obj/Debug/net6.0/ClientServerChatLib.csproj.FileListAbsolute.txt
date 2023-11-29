@@ -1,0 +1,12 @@
+E:\Univer\MPO\ClientServerChat\ClientServerChatLib\bin\Debug\net6.0\ClientServerChatLib.deps.json
+E:\Univer\MPO\ClientServerChat\ClientServerChatLib\bin\Debug\net6.0\ClientServerChatLib.dll
+E:\Univer\MPO\ClientServerChat\ClientServerChatLib\bin\Debug\net6.0\ClientServerChatLib.pdb
+E:\Univer\MPO\ClientServerChat\ClientServerChatLib\obj\Debug\net6.0\ClientServerChatLib.GeneratedMSBuildEditorConfig.editorconfig
+E:\Univer\MPO\ClientServerChat\ClientServerChatLib\obj\Debug\net6.0\ClientServerChatLib.AssemblyInfoInputs.cache
+E:\Univer\MPO\ClientServerChat\ClientServerChatLib\obj\Debug\net6.0\ClientServerChatLib.AssemblyInfo.cs
+E:\Univer\MPO\ClientServerChat\ClientServerChatLib\obj\Debug\net6.0\ClientServerChatLib.csproj.CoreCompileInputs.cache
+E:\Univer\MPO\ClientServerChat\ClientServerChatLib\obj\Debug\net6.0\ClientServerChatLib.dll
+E:\Univer\MPO\ClientServerChat\ClientServerChatLib\obj\Debug\net6.0\refint\ClientServerChatLib.dll
+E:\Univer\MPO\ClientServerChat\ClientServerChatLib\obj\Debug\net6.0\ClientServerChatLib.pdb
+E:\Univer\MPO\ClientServerChat\ClientServerChatLib\obj\Debug\net6.0\ref\ClientServerChatLib.dll
+E:\Univer\MPO\ClientServerChat\ClientServerChatLib\obj\Debug\net6.0\ClientServerChatLib.sourcelink.json

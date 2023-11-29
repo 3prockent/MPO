@@ -1,0 +1,97 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0-windows7.0": {
+      "ClientServerChatLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/ClientServerChatLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ClientServerChatLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ClientServerChatLib/1.0.0": {
+      "type": "project",
+      "path": "../ClientServerChatLib/ClientServerChatLib.csproj",
+      "msbuildProject": "../ClientServerChatLib/ClientServerChatLib.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0-windows7.0": [
+      "ClientServerChatLib >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Vlad\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\Univer\\MPO\\ClientServerChat\\ClientUI\\ClientUI.csproj",
+      "projectName": "ClientUI",
+      "projectPath": "E:\\Univer\\MPO\\ClientServerChat\\ClientUI\\ClientUI.csproj",
+      "packagesPath": "C:\\Users\\Vlad\\.nuget\\packages\\",
+      "outputPath": "E:\\Univer\\MPO\\ClientServerChat\\ClientUI\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Vlad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "projectReferences": {
+            "E:\\Univer\\MPO\\ClientServerChat\\ClientServerChatLib\\ClientServerChatLib.csproj": {
+              "projectPath": "E:\\Univer\\MPO\\ClientServerChat\\ClientServerChatLib\\ClientServerChatLib.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "default"
+      }
+    },
+    "frameworks": {
+      "net6.0-windows7.0": {
+        "targetAlias": "net6.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WPF": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

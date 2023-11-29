@@ -1,0 +1,14 @@
+E:\Univer\MPO\ClientServerChat\StartProject\bin\Debug\net6.0\StartProject.exe
+E:\Univer\MPO\ClientServerChat\StartProject\bin\Debug\net6.0\StartProject.deps.json
+E:\Univer\MPO\ClientServerChat\StartProject\bin\Debug\net6.0\StartProject.runtimeconfig.json
+E:\Univer\MPO\ClientServerChat\StartProject\bin\Debug\net6.0\StartProject.dll
+E:\Univer\MPO\ClientServerChat\StartProject\bin\Debug\net6.0\StartProject.pdb
+E:\Univer\MPO\ClientServerChat\StartProject\obj\Debug\net6.0\StartProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\Univer\MPO\ClientServerChat\StartProject\obj\Debug\net6.0\StartProject.AssemblyInfoInputs.cache
+E:\Univer\MPO\ClientServerChat\StartProject\obj\Debug\net6.0\StartProject.AssemblyInfo.cs
+E:\Univer\MPO\ClientServerChat\StartProject\obj\Debug\net6.0\StartProject.csproj.CoreCompileInputs.cache
+E:\Univer\MPO\ClientServerChat\StartProject\obj\Debug\net6.0\StartProject.dll
+E:\Univer\MPO\ClientServerChat\StartProject\obj\Debug\net6.0\refint\StartProject.dll
+E:\Univer\MPO\ClientServerChat\StartProject\obj\Debug\net6.0\StartProject.pdb
+E:\Univer\MPO\ClientServerChat\StartProject\obj\Debug\net6.0\StartProject.genruntimeconfig.cache
+E:\Univer\MPO\ClientServerChat\StartProject\obj\Debug\net6.0\ref\StartProject.dll
